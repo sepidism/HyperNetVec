@@ -32,7 +32,7 @@
 #include <unordered_set>
 #include <math.h>
 
-#include "bipart.h"
+#include "netvec.h"
 #include "galois/graphs/Util.h"
 #include "galois/Timer.h"
 //#include "GraphReader.h"
