@@ -1,4 +1,4 @@
-#include "bipart.h"
+#include "netvec.h"
 #include "galois/Galois.h"
 #include "galois/AtomicHelpers.h"
 #include "galois/Reduction.h"
